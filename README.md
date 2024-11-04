@@ -14,5 +14,7 @@ The codes are written in C++ and leverage OpenCV for image processing and comput
 
 # How to Use
 Clone the repository: git clone https://github.com/AmosChavan/Computer-Vision-Detection-Algorithms.git
+
 Navigate through the folders to explore each algorithm.
+
 Follow the instructions provided in each code file to compile and run the algorithms.
