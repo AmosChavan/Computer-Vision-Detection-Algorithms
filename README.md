@@ -13,6 +13,6 @@ Approaches used to improve detection accuracy and computational efficiency.
 The codes are written in C++ and leverage OpenCV for image processing and computer vision tasks.
 
 # How to Use
-Clone the repository: git clone https://github.com/username/your-repo-name.git
+Clone the repository: git clone https://github.com/AmosChavan/Computer-Vision-Detection-Algorithms.git
 Navigate through the folders to explore each algorithm.
 Follow the instructions provided in each code file to compile and run the algorithms.
